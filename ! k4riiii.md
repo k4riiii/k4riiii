@@ -1,3 +1,3 @@
-- 👋 Hi!, I’m @k4riiii gg
+- 👋 Hi!, I’m @k4riiii 
 - 👀 I’m interested in I am interested in continuing to learn to program Django, photoshop and python!
 - I’m currently learning Django!
